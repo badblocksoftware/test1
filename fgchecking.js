@@ -5,6 +5,9 @@ var validnums = ["0","1","2","3","4","5","6","7","8","9","space","v"]; // 'v' so
 var ajax1;
 var g_monthly = true;
 
+
+// Daves first update
+
 function init_pagescript()
 {
    var cvvbox = $("cvvpopup").asBox(true);
